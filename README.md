@@ -1,6 +1,6 @@
-**Welcome to my personal SASS folder semantic template repository!**
+**Welcome to my personal SASS/Tailwind folder semantic template repository!**
 <br><br>
-This repository contains a basic template for my new projects using SASS, with the aim of providing a more structured and organized way to manage my stylesheets.
+This repository contains a basic template for my new projects using SASS/Tailwind, with the aim of providing a more structured and organized way to manage my stylesheets.
 <br><br>
 Please note that I am not an expert, and this template is not intended to be a perfect or standard recommendation. I welcome any feedback or suggestions on how to improve this template.
 <br><br>
